@@ -1,0 +1,7 @@
+'atom-workspace atom-text-editor:not([mini])':
+	'ctrl-b': 'simple-htmlr:bold'
+	'cmd-b': 'simple-htmlr:bold'
+	'ctrl-i': 'simple-htmlr:italics'
+	'cmd-i': 'simple-htmlr:italics'
+	'ctrl-u': 'simple-htmlr:underline'
+	'cmd-u': 'simple-htmlr:underline'
