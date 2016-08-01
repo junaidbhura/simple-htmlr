@@ -1,6 +1,6 @@
 # Simple HTMLr
 
-Simple HTMLr is an [Atom][atom] package to help write HTML faster by automatically adding bold, italics and underline tags to selections using the standard CMD+B, CMD+I and CMD+U keys. which is designed to make writing documentation faster and easier.
+Simple HTMLr is an [Atom][atom] package to help write HTML faster by automatically adding bold, italics and underline tags to selections using the standard CMD+B, CMD+I and CMD+U keys.
 
 ## Usage
 
