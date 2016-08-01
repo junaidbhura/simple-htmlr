@@ -1,19 +1,19 @@
 {
-	"name": "simple-htmlr",
-	"main": "./lib/simple-htmlr",
-	"version": "0.0.0",
-	"description": "A package to help write HTML faster by automatically adding bold, italics and underline tags to selections using the standard CMD+B, CMD+I and CMD+U keys.",
-	"engines": {
-		"atom": "*"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/junaidbhura/simple-htmlr.git"
-	},
-	"license": "MIT",
-	"dependencies": {},
-	"bugs": {
-		"url": "https://github.com/junaidbhura/simple-htmlr/issues"
-	},
-	"readmeFilename": "README.md"
+  "name": "simple-htmlr",
+  "main": "./lib/simple-htmlr",
+  "version": "1.0.0",
+  "description": "A package to help write HTML faster by automatically adding bold, italics and underline tags to selections using the standard CMD+B, CMD+I and CMD+U keys.",
+  "engines": {
+    "atom": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junaidbhura/simple-htmlr.git"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/junaidbhura/simple-htmlr/issues"
+  },
+  "readmeFilename": "README.md"
 }
